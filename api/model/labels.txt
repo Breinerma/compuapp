@@ -1,0 +1,37 @@
+Andinocervus-rufinus
+Aotus-lemurinus
+Bos-taurus(ganado_doméstico)
+Bubalus-bubalis
+Caluromys lanatus
+Capra-hircus
+Cavia-aperea
+Cebus-versicolor
+Cerdocyon-thous
+Choloepus hoffmanni
+Coendou-rufescens
+Cuniculus-paca
+Desmodus-rotundus
+Eira-barbara
+Galictis-vittata
+Lasiurus-blossevillii
+Leopardus-pardalis
+Lontra-annectens
+Mazama-americana
+Nasua-nasua
+Nasua-olivacea
+Neogale frenata
+Odocoileus-virginianus
+Pecari tajacu
+Phyllostomus-hastatus
+Potos-flavus
+Procyon-cancrivorus
+Puma-concolor
+Saguinus leucopus
+Saimiri-cassiquiarensis
+Sciurus granatensis
+Sciurus-pucheranii
+Sus-scrofa
+Sylvilagus-andinus
+Tamandua-mexicana
+Tapirus-pinchaque
+Tapirus-terrestris

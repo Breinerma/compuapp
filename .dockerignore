@@ -1,0 +1,13 @@
+.git
+.env
+.env.*
+**/__pycache__
+**/*.pyc
+**/.pytest_cache
+**/uploads
+**/backups
+**/*.db
+.venv
+venv
+deploy/aws/generated
+deploy/aws/aws.config.json

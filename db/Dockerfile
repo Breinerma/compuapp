@@ -1,0 +1,6 @@
+FROM mysql:8.0
+ENV MYSQL_DATABASE=naturalens \
+    MYSQL_USER=naturalens \
+    MYSQL_PASSWORD=JCMMCMAPbmamyma \
+    MYSQL_ROOT_PASSWORD=jcmmcmmapBMAMYMA
+EXPOSE 3306
